@@ -1,0 +1,65 @@
+*{
+   margin: 20px;
+    background-color: red;
+}
+}
+.fondo1
+{
+background-color: yellow;
+padding: 60px;
+   
+    border-style: solid;
+
+   
+   
+}
+.fondo2
+{
+    background-color: gray;
+    padding: 60px;
+       
+       
+        border-radius: 500px;
+}
+.fondo3
+{
+    background-color: purple;
+    padding: 60px;
+       
+        border-color: orange;
+        border-radius: 500px;
+    }
+.fondo4
+{
+    background-color: yellow;
+    padding: 60px;
+       
+        
+       
+        border-radius: 500px;
+}
+.fondo5
+{
+    background-color: green;
+    padding: 60px;
+       
+     
+        border-radius: 500px;
+}
+.fondo6
+{
+    background-color: pink;
+    padding: 60px;
+       
+        
+        border-radius: 500px;
+}
+.fondo7
+{
+    background-color: blue;
+    padding: 60px;
+       
+    
+        
+        border-radius: 500px;
+}
